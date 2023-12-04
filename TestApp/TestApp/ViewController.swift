@@ -23,6 +23,9 @@ class ViewController: UIViewController {
     func test3() {
         //test 3 finish
     }
+    func maintest1() {
+        
+    }
 
 }
 
