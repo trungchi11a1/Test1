@@ -29,6 +29,9 @@ class ViewController: UIViewController {
     func revert1() {
         
     }
+    func revert2() {
+        
+    }
 
 }
 
