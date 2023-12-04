@@ -34,5 +34,8 @@ class ViewController: UIViewController {
     func testRevert2() {
         
     }
+    func timhieulogic() {
+        // toi dang tim hieu 1
+    }
 }
 
