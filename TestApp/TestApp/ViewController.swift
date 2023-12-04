@@ -16,5 +16,9 @@ class ViewController: UIViewController {
     func gitTest1() {
         
     }
+    
+    func test2() {
+        
+    }
 }
 
