@@ -13,29 +13,8 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
     }
-    func test1() {
-        //test finish
-    }
-    func test2() {
-        // test 2 finish
-    }
-
-    func test3() {
-        //test 3 finish
-    }
-    func maintest1() {
+    func gitTest1() {
         
-    }
-    
-    func testRevert1() {
-        // day la commit cua test revert 3
-    }
-
-    func testRevert2() {
-        
-    }
-    func timhieulogic() {
-        // toi dang tim hieu 1
     }
 }
 
